@@ -1,0 +1,12 @@
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\bin\Debug\ClassADO_001.dll
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\bin\Debug\ClassADO_001.pdb
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\obj\Debug\ClassADO_001.csprojAssemblyReference.cache
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\obj\Debug\ClassADO_001.csproj.CoreCompileInputs.cache
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\obj\Debug\ClassADO_001.dll
+C:\Users\chendo\source\repos\ClassADO_001\ClassADO_001\obj\Debug\ClassADO_001.pdb
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\bin\Debug\ClassADO_001.dll
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\bin\Debug\ClassADO_001.pdb
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\obj\Debug\ClassADO_001.csprojAssemblyReference.cache
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\obj\Debug\ClassADO_001.csproj.CoreCompileInputs.cache
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\obj\Debug\ClassADO_001.dll
+C:\Users\chendo\source\repos\Examen001-Explicacion\ADO\ClassADO_001\obj\Debug\ClassADO_001.pdb
